@@ -1,0 +1,32 @@
+_repo: The-Browning-Cyclop-diaA-Guide-to-the-Study-of-the-Works-of-Robert-Browning_36734
+_version: 0.1.0
+alternative_title: 'The Browning Cyclopaedia: A Guide to the Study of the Works of
+  Robert Browning'
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Berdoe, Edward
+    aliases:
+    - Scalpel, Æsculapius
+    - Scalpel, Aesculapius
+    birthdate: 1836
+    deathdate: 1916
+    gutenberg_agent_id: '38449'
+    url: http://www.gutenberg.org/2009/agents/38449
+    wikipedia: https://en.wikipedia.org/wiki/Edward_Berdoe
+description: ''
+gutenberg_issued: '2011-07-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36734'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Browning, Robert, 1812-1889 -- Encyclopedias'
+- !lcc 'PR'
+title: 'The Browning Cyclopædia: A Guide to the Study of the Works of Robert Browning'
+url: http://www.gutenberg.org/ebooks/36734

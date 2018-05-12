@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/38449
     wikipedia: https://en.wikipedia.org/wiki/Edward_Berdoe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36734#The-Browning-Cyclop-diaA-Guide-to-the-Study-of-the-Works-of-Robert-Browning
 gutenberg_issued: '2011-07-14'
 gutenberg_type: Text
 identifiers:
